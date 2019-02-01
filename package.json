@@ -1,0 +1,25 @@
+{
+  "name": "graphqlex",
+  "version": "1.0.0",
+  "description": "Graphql Example",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhyToReinventTheWheel/Graphql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WhyToReinventTheWheel/Graphql/issues"
+  },
+  "homepage": "https://github.com/WhyToReinventTheWheel/Graphql#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.1.1",
+    "nodemon": "^1.18.9"
+  }
+}
